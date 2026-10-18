@@ -1,0 +1,38 @@
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.formDoctorSchedule.resources
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.formHospitalMain.resources
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.formPatientProfiles.resources
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.csproj.GenerateResource.cache
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.AssemblyInfoInputs.cache
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.AssemblyInfo.cs
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\program C#\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.exe
+D:\program C#\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.deps.json
+D:\program C#\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.runtimeconfig.json
+D:\program C#\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.dll
+D:\program C#\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.pdb
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.dll
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\refint\HospitalManagement.dll
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.pdb
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.genruntimeconfig.cache
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\ref\HospitalManagement.dll
+D:\program C#\bai4.13\obj\Debug\net10.0-windows\Hospital.2B9058E3.Up2Date
+D:\hoctap\.net\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.exe
+D:\hoctap\.net\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.deps.json
+D:\hoctap\.net\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.runtimeconfig.json
+D:\hoctap\.net\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.dll
+D:\hoctap\.net\bai4.13\bin\Debug\net10.0-windows\HospitalManagement.pdb
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.formDoctorSchedule.resources
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.formHospitalMain.resources
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.formPatientProfiles.resources
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.csproj.GenerateResource.cache
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.AssemblyInfoInputs.cache
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.AssemblyInfo.cs
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.dll
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\refint\HospitalManagement.dll
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.pdb
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\HospitalManagement.genruntimeconfig.cache
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\ref\HospitalManagement.dll
+D:\hoctap\.net\bai4.13\obj\Debug\net10.0-windows\Hospital.2B9058E3.Up2Date
