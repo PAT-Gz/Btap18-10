@@ -1,0 +1,34 @@
+D:\program C#\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.exe
+D:\program C#\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.deps.json
+D:\program C#\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.runtimeconfig.json
+D:\program C#\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.dll
+D:\program C#\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.pdb
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.formRevenueAnalytics.resources
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.csproj.GenerateResource.cache
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.AssemblyInfoInputs.cache
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.AssemblyInfo.cs
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.csproj.CoreCompileInputs.cache
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.dll
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\refint\RevenueAnalytics.dll
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.pdb
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.genruntimeconfig.cache
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\ref\RevenueAnalytics.dll
+D:\program C#\Bai4.14\obj\Debug\net10.0-windows\RevenueA.1A2AB94A.Up2Date
+D:\hoctap\.net\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.exe
+D:\hoctap\.net\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.deps.json
+D:\hoctap\.net\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.runtimeconfig.json
+D:\hoctap\.net\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.dll
+D:\hoctap\.net\Bai4.14\bin\Debug\net10.0-windows\RevenueAnalytics.pdb
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.formRevenueAnalytics.resources
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.csproj.GenerateResource.cache
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.AssemblyInfoInputs.cache
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.AssemblyInfo.cs
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.csproj.CoreCompileInputs.cache
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.dll
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\refint\RevenueAnalytics.dll
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.pdb
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueAnalytics.genruntimeconfig.cache
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\ref\RevenueAnalytics.dll
+D:\hoctap\.net\Bai4.14\obj\Debug\net10.0-windows\RevenueA.1A2AB94A.Up2Date
